@@ -1,3 +1,4 @@
+#trivial
 FROM postgres:9.6
 
 # Copy the database initialize script: 
